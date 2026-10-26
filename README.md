@@ -353,7 +353,7 @@ The last notebook cell starts Streamlit and exposes it through a temporary Cloud
 
 ## Author
 
-**Niwisha**
+**Niwisha,Dalina** 
 B.Tech Computer Science and Engineering, Karunya Institute of Technology and Sciences
 
 ## License
